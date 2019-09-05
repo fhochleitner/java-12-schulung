@@ -71,4 +71,4 @@ fabric.properties
 /**/*.iml
 */target/*
 .idea/*
-*/privateinterfacemethod/target
+*/privateinterfacemethod/target/
