@@ -11,6 +11,7 @@
     <modules>
         <module>privateinterfacemethod</module>
         <module>processDemo</module>
+        <module>FlowDemo</module>
     </modules>
 
     <properties>
