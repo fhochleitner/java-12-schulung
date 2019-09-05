@@ -9,11 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>privateinterfacemethod</module>
         <module>processDemo</module>
         <module>FlowDemo</module>
         <module>StreamDemo</module>
         <module>CompleteableFutureDemo</module>
+        <module>privateInterfaceMethodDemo</module>
     </modules>
 
     <properties>

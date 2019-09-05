@@ -1,9 +1,7 @@
-package com.gepardec;
+package com.gepardec.interfaces;
 
 import com.gepardec.interfaces.Chiffre;
-import org.w3c.dom.ls.LSOutput;
 
-import java.security.MessageDigest;
 import java.util.List;
 
 public class MainApp {

@@ -1,4 +1,4 @@
-package com.gepardec;
+package com.gepardec.interfaces;
 
 import com.gepardec.interfaces.Chiffre;
 
