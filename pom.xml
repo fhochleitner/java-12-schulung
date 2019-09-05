@@ -13,6 +13,7 @@
         <module>processDemo</module>
         <module>FlowDemo</module>
         <module>StreamDemo</module>
+        <module>CompleteableFutureDemo</module>
     </modules>
 
     <properties>

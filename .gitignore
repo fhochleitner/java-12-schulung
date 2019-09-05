@@ -69,3 +69,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 /.idea/
 /**/*.iml
+*/target/*
+.idea/*
+privateinterfacemethod/target
