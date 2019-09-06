@@ -23,7 +23,7 @@ public class BenchmarkApp {
 
         System.out.println("setup() >> pid=" + ProcessHandle.current().pid());
         calculator = new Calculator();
-        numbers = ThreadLocalRandom.current().ints(999999999, -99, 100).toArray();
+        numbers = ThreadLocalRandom.current().ints(100, -99, 100).toArray();
     }
 
     @Benchmark
