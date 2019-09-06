@@ -16,6 +16,8 @@
         <module>privateInterfaceMethodDemo</module>
         <module>CollectionFeaturesDemo</module>
         <module>HttpClientDemo</module>
+        <module>SwitchExampleDemo</module>
+        <module>BenchmarkDemoTwo</module>
     </modules>
 
     <properties>
