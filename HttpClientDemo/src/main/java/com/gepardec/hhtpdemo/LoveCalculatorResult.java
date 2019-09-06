@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class LoveCalculatorResult {
 
     private String fname;
-    private String lname;
+    private String sname;
     private String result;
     private int percentage;
 
