@@ -14,6 +14,7 @@
         <module>StreamDemo</module>
         <module>CompleteableFutureDemo</module>
         <module>privateInterfaceMethodDemo</module>
+        <module>CollectionFeaturesDemo</module>
     </modules>
 
     <properties>
