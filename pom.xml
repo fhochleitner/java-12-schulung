@@ -15,6 +15,7 @@
         <module>CompleteableFutureDemo</module>
         <module>privateInterfaceMethodDemo</module>
         <module>CollectionFeaturesDemo</module>
+        <module>HttpClientDemo</module>
     </modules>
 
     <properties>
